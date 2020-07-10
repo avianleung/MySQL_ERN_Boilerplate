@@ -1,3 +1,3 @@
 # MERN_Boilerplate
 
-//asdf
+Boilerplate code for a MySQL, Express, React, and Node Stack
